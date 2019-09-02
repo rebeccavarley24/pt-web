@@ -109,7 +109,6 @@ This is an unordered list, try changing 'ul' to 'ol' in the example above and se
 So you may notice that 'ul' and 'ol' are the first tags we've tried that don't wrap text but instead wrap other elements.  The principle is still the same though the starts just tell the computer 'Start a list' and 'Stop a list' it's just that each item also needs to be wrapped in an item.
 
 Optional Extension:
-
 Try the following incorrect samples and see what happens: 
 
 Items without a list
@@ -163,7 +162,6 @@ Ok so a quick aside but there are some tags that you'll notice in every document
 ```
 
 The 'html' tag is the first tag in a document, it's what tells the computer that we're writing HTML and not just a bunch of text.
-
 The 'body' tag basically tells the computer that we're starting the part of the document that contains the text we want to show to the user.  If this doesn't make sense then don't worry it will become much clearer when you encounter the 'head' tag in a future session.
 
 ## What now?
