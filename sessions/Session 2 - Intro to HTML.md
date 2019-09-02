@@ -35,9 +35,8 @@ Try entering the text below into the HTML pane
 ```HTML
 This text will be normal <em>This text will be emphasized.</em> This text also won't be emphasized.
 ```
-and it should look something like this
 
-This text will be normal <em>This text will be emphasized.</em> This text also won't be emphasized.
+Should look like: This text will be normal <em>This text will be emphasized.</em> This text also won't be emphasized.
 
 Let's try another tag, paste the two snippets below into the HTML pane below the previous example and see how it looks.
 
@@ -50,23 +49,21 @@ This text is normal <strong>This text is strong,<em>This text is strong and emph
 
 ## Why is all my text stuck together?
 
-You may notice that if you've got more than one piece of text, they're all stuck together.  Let's see if we can fix that. Remove all the text between the body tags (i.e. all the text between `<body>` and `</body>` in the HTML pane) and replace it with the following:
+You may notice that if you've got more than one piece of text, they're all stuck together.  Let's see if we can fix that. Try removing:
 
 ```HTML
 This is line 1
 This is line 2
 ```
 
-Now try this
+and replacing it with:
 
 ```HTML
 <p>This is line 1</p>
 <p>This is line 2</p>
 ```
 
-The `p` in this tag stands for paragraph and provides a way to separate text into nice readable blocks but if you notice the gap between the lines is pretty big, like the gap between two paragraphs.  What happens if you actually just want to put a new line in there?
-
-Try this instead:
+The `p` in this tag stands for paragraph and provides a way to separate text into nice readable blocks but if you notice the gap between the lines is pretty big, like the gap between two paragraphs.  What happens if you actually just want to put a new line in there? Try this instead:
 
 ```HTML
 This is line 1<br/>
@@ -81,7 +78,7 @@ Believe it or not you've now actually learned most of the techniques you need to
 
 ### Headings
 
-Headings are fairly straight forward, try the code below:
+Headings are fairly straight forward, try the code below (As an optional extension: Can you combine the heading tags with the 'em' tag we learned earlier?):
 
 ```HTML
 <h1>Heading 1</h1>
@@ -89,7 +86,6 @@ Headings are fairly straight forward, try the code below:
 <h3>Heading 3</h3>
 <h4>Heading 4</h4>
 ```
-Optional extension: Can you combine the heading tags with the 'em' tag we learned earlier?
 
 ### Lists
 
@@ -106,10 +102,7 @@ This is an unordered list, try changing 'ul' to 'ol' in the example above and se
 
 #### Tags within tags
 
-So you may notice that 'ul' and 'ol' are the first tags we've tried that don't wrap text but instead wrap other elements.  The principle is still the same though the starts just tell the computer 'Start a list' and 'Stop a list' it's just that each item also needs to be wrapped in an item.
-
-Optional Extension:
-Try the following incorrect samples and see what happens: 
+So you may notice that 'ul' and 'ol' are the first tags we've tried that don't wrap text but instead wrap other elements.  The principle is still the same though the starts just tell the computer 'Start a list' and 'Stop a list' it's just that each item also needs to be wrapped in an item. (Optional Extension: Try the following incorrect samples and see what happens): 
 
 Items without a list
 ```HTML
@@ -161,8 +154,7 @@ Ok so a quick aside but there are some tags that you'll notice in every document
 </html>
 ```
 
-The 'html' tag is the first tag in a document, it's what tells the computer that we're writing HTML and not just a bunch of text.
-The 'body' tag basically tells the computer that we're starting the part of the document that contains the text we want to show to the user.  If this doesn't make sense then don't worry it will become much clearer when you encounter the 'head' tag in a future session.
+The 'html' tag is the first tag in a document, it's what tells the computer that we're writing HTML and not just a bunch of text. The 'body' tag basically tells the computer that we're starting the part of the document that contains the text we want to show to the user.  If this doesn't make sense then don't worry it will become much clearer when you encounter the 'head' tag in a future session.
 
 ## What now?
 
