@@ -1,5 +1,7 @@
 # Getting started with HTML tags
 
+**View this in your browser: http://bit.ly/gswd-2**
+
 ## What is an HTML tag?
 
 HTML tags are just a way of telling the computer to start doing something and stop doing something.  An opening tag (i.e. a tag that tells the computer to start doing something) is a word or character between `<` and `>` characters, sometimes called angle brackets like so:

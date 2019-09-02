@@ -1,5 +1,7 @@
 # CSS Stylings
 
+**View this in your browser: http://bit.ly/gswd-3**
+
 ## 0. Before you start
 
 To get started:

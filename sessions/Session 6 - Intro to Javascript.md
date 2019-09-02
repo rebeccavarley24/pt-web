@@ -1,5 +1,7 @@
 # Session 6 - Javascript
 
+**View this in your browser: http://bit.ly/gswd-6**
+
 In this session we're going to look at the basics of Javascript, a programming language used to add complex functionality and interactivity to almost all modern websites.
 
 ## 1. What is Javascript?

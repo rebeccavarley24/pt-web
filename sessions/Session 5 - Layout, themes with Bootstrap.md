@@ -1,5 +1,6 @@
-
 # Session 5 - Layout, Themes, and Widgets
+
+**View this in your browser: http://bit.ly/gswd-5**
 
 During this session we're going to make the blog more interactive, and look at how you can start adding complex layouts.
 

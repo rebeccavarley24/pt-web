@@ -1,5 +1,8 @@
-# Setup
+# Setting up GitHub 
 
+**View this in your browser: http://bit.ly/gswd-1**
+
+## About this session
 In this session you'll create a GitHub account so that you can get the material we've prepared for you.
 
 ## 1. Sign up for an account
