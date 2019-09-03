@@ -1,12 +1,12 @@
 h1 { 
-   color: red; 
-   background-color: yellow; 
+   color: black; 
+   background-image: url('https://previews.123rf.com/images/apostrophe/apostrophe1812/apostrophe181200008/113497560-old-yellowed-paper-background-with-vintage-texture-layout-off-white-or-cream-background-color-with-b.jpg');
    border: 1px solid black;
    }
    p{
    font-family: "Verdana";
    font-size: 30px;
-   font-style: normal;
+   font-style: italic;
    font-weight: bold;
 } 
 
