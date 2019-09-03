@@ -1,12 +1,12 @@
 h1 { 
-   color: black; 
-   background-image: url('https://previews.123rf.com/images/apostrophe/apostrophe1812/apostrophe181200008/113497560-old-yellowed-paper-background-with-vintage-texture-layout-off-white-or-cream-background-color-with-b.jpg');
+   color: red; 
+   background-image: url('https://us.123rf.com/450wm/kazanlena/kazanlena1703/kazanlena170300087/75227020-cream-texture-background-paper-beige-color-parchment-paper-website-background.jpg?ver=6');
    border: 1px solid black;
    }
    p{
    font-family: "Verdana";
    font-size: 30px;
-   font-style: italic;
+   font-style: normal;
    font-weight: bold;
 } 
 
