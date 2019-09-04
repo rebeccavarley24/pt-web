@@ -4,35 +4,21 @@ h1 {
    border: 1px solid black;
    }
    p{
-   font-family: "Verdana";
-   font-size: 30px;
+   font-family: "normal";
+   font-size: 15px;
    font-style: normal;
-   font-weight: bold;
 } 
 
-.first {
- color: blue;
- font-style: italic;
- }
- 
- .second {
-   color: red;
-   font-style: italic;
- }
- 
- .third {
-   color: green;
-   font-style: italic;
- }
- 
- [data-vegetable] {
-   color: red;
- }
- 
- [data-vegetable="liquid"] {
-   background-color: lightblue;
- }
- 
- [data-meat] {
-   color: brown;
- }
+h2 {
+  font-size: 40px;
+  font-family: sans-serif;
+  background-image: ("https://statics.sportskeeda.com/editor/2018/12/36fa2-15438205015648-800.jpg");
+}
+
+img {width: 500px;
+height: 300px;}
+
+h3 {
+  font-size: 30px;
+  font-family: sans-serif;
+}
