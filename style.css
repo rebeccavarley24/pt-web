@@ -4,17 +4,19 @@ h1 {
    font-size: 50px;
    background-repeat: no-repeat;
    }
+   
+   h2 {
+  font-size: 20px;
+  font-family: sans-serif;
+  background-image: ("https://statics.sportskeeda.com/editor/2018/12/36fa2-15438205015648-800.jpg");
+}
+
    p{
    font-family: "normal";
    font-size: 15px;
    font-style: normal;
 } 
 
-h2 {
-  font-size: 20px;
-  font-family: sans-serif;
-  background-image: ("https://statics.sportskeeda.com/editor/2018/12/36fa2-15438205015648-800.jpg");
-}
 
 img {width: 600px;
 height: 400px;}
