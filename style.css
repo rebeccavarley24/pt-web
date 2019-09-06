@@ -2,6 +2,7 @@ h1 {
    color: red; 
    background-image: url('https://www.satedev.com/wp-content/uploads/2017/07/wallpaper-sky-blue-background-13-1024x640.jpg');
    font-size: 50px;
+   background-repeat: no-repeat;
    }
    p{
    font-family: "normal";
